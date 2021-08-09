@@ -1,0 +1,17 @@
+.users-box {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    column-gap: 80px;
+
+}
+.users-box p {
+    display: flex;
+    width: 200px;
+    border: 2px solid #3453ef;
+}
+
+.button {
+    margin-top: 100px;
+
+}
